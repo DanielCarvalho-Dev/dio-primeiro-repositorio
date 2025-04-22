@@ -1,2 +1,2 @@
 # dio-primeiro-repositorio
-Primeiro repositório para o desafio DIO.
+Repositório para entrega de desafios DIO.
